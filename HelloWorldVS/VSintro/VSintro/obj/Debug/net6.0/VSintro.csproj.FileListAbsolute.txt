@@ -1,0 +1,15 @@
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\bin\Debug\net6.0\VSintro.exe
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\bin\Debug\net6.0\VSintro.deps.json
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\bin\Debug\net6.0\VSintro.runtimeconfig.json
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\bin\Debug\net6.0\VSintro.dll
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\bin\Debug\net6.0\VSintro.pdb
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\obj\Debug\net6.0\VSintro.csproj.AssemblyReference.cache
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\obj\Debug\net6.0\VSintro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\obj\Debug\net6.0\VSintro.AssemblyInfoInputs.cache
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\obj\Debug\net6.0\VSintro.AssemblyInfo.cs
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\obj\Debug\net6.0\VSintro.csproj.CoreCompileInputs.cache
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\obj\Debug\net6.0\VSintro.dll
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\obj\Debug\net6.0\refint\VSintro.dll
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\obj\Debug\net6.0\VSintro.pdb
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\obj\Debug\net6.0\VSintro.genruntimeconfig.cache
+C:\Users\splen\Documents\dotnetPractical\HelloWorldVS\VSintro\VSintro\obj\Debug\net6.0\ref\VSintro.dll
