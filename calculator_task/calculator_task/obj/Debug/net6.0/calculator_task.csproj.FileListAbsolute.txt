@@ -1,0 +1,15 @@
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\bin\Debug\net6.0\calculator_task.exe
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\bin\Debug\net6.0\calculator_task.deps.json
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\bin\Debug\net6.0\calculator_task.runtimeconfig.json
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\bin\Debug\net6.0\calculator_task.dll
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\bin\Debug\net6.0\calculator_task.pdb
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\obj\Debug\net6.0\calculator_task.csproj.AssemblyReference.cache
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\obj\Debug\net6.0\calculator_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\obj\Debug\net6.0\calculator_task.AssemblyInfoInputs.cache
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\obj\Debug\net6.0\calculator_task.AssemblyInfo.cs
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\obj\Debug\net6.0\calculator_task.csproj.CoreCompileInputs.cache
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\obj\Debug\net6.0\calculator_task.dll
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\obj\Debug\net6.0\refint\calculator_task.dll
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\obj\Debug\net6.0\calculator_task.pdb
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\obj\Debug\net6.0\calculator_task.genruntimeconfig.cache
+C:\Users\splen\Documents\dotnetPractical\calculator_task\calculator_task\obj\Debug\net6.0\ref\calculator_task.dll
