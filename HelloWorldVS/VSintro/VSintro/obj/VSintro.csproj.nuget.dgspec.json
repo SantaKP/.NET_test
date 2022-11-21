@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\splen\\Documents\\dotnetPractical\\HelloWorldVS\\VSintro\\VSintro\\VSintro.csproj": {}
+    "C:\\Users\\splen\\Documents\\dotnetpractical2\\HelloWorldVS\\VSintro\\VSintro\\VSintro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\splen\\Documents\\dotnetPractical\\HelloWorldVS\\VSintro\\VSintro\\VSintro.csproj": {
+    "C:\\Users\\splen\\Documents\\dotnetpractical2\\HelloWorldVS\\VSintro\\VSintro\\VSintro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\splen\\Documents\\dotnetPractical\\HelloWorldVS\\VSintro\\VSintro\\VSintro.csproj",
+        "projectUniqueName": "C:\\Users\\splen\\Documents\\dotnetpractical2\\HelloWorldVS\\VSintro\\VSintro\\VSintro.csproj",
         "projectName": "VSintro",
-        "projectPath": "C:\\Users\\splen\\Documents\\dotnetPractical\\HelloWorldVS\\VSintro\\VSintro\\VSintro.csproj",
+        "projectPath": "C:\\Users\\splen\\Documents\\dotnetpractical2\\HelloWorldVS\\VSintro\\VSintro\\VSintro.csproj",
         "packagesPath": "C:\\Users\\splen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\splen\\Documents\\dotnetPractical\\HelloWorldVS\\VSintro\\VSintro\\obj\\",
+        "outputPath": "C:\\Users\\splen\\Documents\\dotnetpractical2\\HelloWorldVS\\VSintro\\VSintro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\splen\\AppData\\Roaming\\NuGet\\NuGet.Config",
