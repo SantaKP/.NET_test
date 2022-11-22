@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OB/MZKbiBeJWE43G75euGD/RFpcCRx/a0WURC79xvUk5IGCSpxTSXhZ4eMpH+jjpOWWtmlCo1tG/Nfe4dCgcXw==",
+  "dgSpecHash": "tKjTP+g5ipz6H4q9dzbK8SXChrK3i1DJqcawicH9LVOJ05AWTjHpZknNqflNv5iZ91/VWxp3g5+2kyeaeBRnCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\splen\\Documents\\dotnetPractical\\dotnetPractical.csproj",
+  "projectFilePath": "C:\\Users\\splen\\Documents\\dotnetPractical\\HelloWorld\\dotnetPractical.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
