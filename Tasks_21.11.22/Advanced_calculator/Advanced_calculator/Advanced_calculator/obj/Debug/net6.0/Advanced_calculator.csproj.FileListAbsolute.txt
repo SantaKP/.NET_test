@@ -1,0 +1,15 @@
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\bin\Debug\net6.0\Advanced_calculator.exe
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\bin\Debug\net6.0\Advanced_calculator.deps.json
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\bin\Debug\net6.0\Advanced_calculator.runtimeconfig.json
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\bin\Debug\net6.0\Advanced_calculator.dll
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\bin\Debug\net6.0\Advanced_calculator.pdb
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\obj\Debug\net6.0\Advanced_calculator.csproj.AssemblyReference.cache
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\obj\Debug\net6.0\Advanced_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\obj\Debug\net6.0\Advanced_calculator.AssemblyInfoInputs.cache
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\obj\Debug\net6.0\Advanced_calculator.AssemblyInfo.cs
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\obj\Debug\net6.0\Advanced_calculator.csproj.CoreCompileInputs.cache
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\obj\Debug\net6.0\Advanced_calculator.dll
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\obj\Debug\net6.0\refint\Advanced_calculator.dll
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\obj\Debug\net6.0\Advanced_calculator.pdb
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\obj\Debug\net6.0\Advanced_calculator.genruntimeconfig.cache
+C:\Users\splen\Documents\dotnetPractical\Tasks_21.11.22\Advanced_calculator\Advanced_calculator\Advanced_calculator\obj\Debug\net6.0\ref\Advanced_calculator.dll
