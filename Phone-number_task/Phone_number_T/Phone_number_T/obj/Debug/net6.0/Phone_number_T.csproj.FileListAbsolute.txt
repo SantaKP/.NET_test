@@ -1,0 +1,15 @@
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\bin\Debug\net6.0\Phone_number_T.exe
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\bin\Debug\net6.0\Phone_number_T.deps.json
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\bin\Debug\net6.0\Phone_number_T.runtimeconfig.json
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\bin\Debug\net6.0\Phone_number_T.dll
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\bin\Debug\net6.0\Phone_number_T.pdb
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\obj\Debug\net6.0\Phone_number_T.csproj.AssemblyReference.cache
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\obj\Debug\net6.0\Phone_number_T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\obj\Debug\net6.0\Phone_number_T.AssemblyInfoInputs.cache
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\obj\Debug\net6.0\Phone_number_T.AssemblyInfo.cs
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\obj\Debug\net6.0\Phone_number_T.csproj.CoreCompileInputs.cache
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\obj\Debug\net6.0\Phone_number_T.dll
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\obj\Debug\net6.0\refint\Phone_number_T.dll
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\obj\Debug\net6.0\Phone_number_T.pdb
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\obj\Debug\net6.0\Phone_number_T.genruntimeconfig.cache
+C:\Users\splen\Documents\dotnetPractical\Phone-number_task\Phone_number_T\Phone_number_T\obj\Debug\net6.0\ref\Phone_number_T.dll

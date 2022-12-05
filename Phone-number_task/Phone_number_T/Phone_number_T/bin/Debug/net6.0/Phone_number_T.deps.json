@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Phone_number_T/1.0.0": {
+        "runtime": {
+          "Phone_number_T.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phone_number_T/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

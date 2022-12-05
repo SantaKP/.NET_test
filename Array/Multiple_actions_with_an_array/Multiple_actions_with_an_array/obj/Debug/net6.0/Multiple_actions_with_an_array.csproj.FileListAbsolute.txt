@@ -1,0 +1,5 @@
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\obj\Debug\net6.0\Multiple_actions_with_an_array.csproj.AssemblyReference.cache
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\obj\Debug\net6.0\Multiple_actions_with_an_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\obj\Debug\net6.0\Multiple_actions_with_an_array.AssemblyInfoInputs.cache
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\obj\Debug\net6.0\Multiple_actions_with_an_array.AssemblyInfo.cs
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\obj\Debug\net6.0\Multiple_actions_with_an_array.csproj.CoreCompileInputs.cache

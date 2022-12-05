@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\splen\\Documents\\dotnetpractical2\\calculator_task\\calculator_task\\calculator_task.csproj",
+      "projectUniqueName": "C:\\Users\\splen\\Documents\\dotnetPractical\\calculator_task\\calculator_task\\calculator_task.csproj",
       "projectName": "calculator_task",
-      "projectPath": "C:\\Users\\splen\\Documents\\dotnetpractical2\\calculator_task\\calculator_task\\calculator_task.csproj",
+      "projectPath": "C:\\Users\\splen\\Documents\\dotnetPractical\\calculator_task\\calculator_task\\calculator_task.csproj",
       "packagesPath": "C:\\Users\\splen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\splen\\Documents\\dotnetpractical2\\calculator_task\\calculator_task\\obj\\",
+      "outputPath": "C:\\Users\\splen\\Documents\\dotnetPractical\\calculator_task\\calculator_task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\splen\\AppData\\Roaming\\NuGet\\NuGet.Config",
