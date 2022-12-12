@@ -21,10 +21,10 @@ class Array_Split
         }
 
         //string nbr = "20, 30, 40, 44";
-        //string[] arraySplit = nbr.Split(',');
-        //foreach (string nbr2 in arraySplit)
-        //Console.WriteLine(nbr2);
-        //int[] arr = new int[arraySplit.Length];
+        //string[] arraysplit = nbr.split(',');
+        //foreach (string nbr2 in arraysplit)
+        //    console.writeline(nbr2);
+        //int[] arr = new int[arraysplit.length];
 
 
 
@@ -37,12 +37,12 @@ class Array_Split
         //string[] numbers = numberSplit.Split(";");
         //foreach (string number in numbers)
         //Console.WriteLine(number);
-        
 
 
 
 
-}
+
+    }
 
 
 

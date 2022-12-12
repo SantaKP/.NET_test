@@ -3,3 +3,13 @@ C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Mu
 C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\obj\Debug\net6.0\Multiple_actions_with_an_array.AssemblyInfoInputs.cache
 C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\obj\Debug\net6.0\Multiple_actions_with_an_array.AssemblyInfo.cs
 C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\obj\Debug\net6.0\Multiple_actions_with_an_array.csproj.CoreCompileInputs.cache
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\bin\Debug\net6.0\Multiple_actions_with_an_array.exe
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\bin\Debug\net6.0\Multiple_actions_with_an_array.deps.json
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\bin\Debug\net6.0\Multiple_actions_with_an_array.runtimeconfig.json
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\bin\Debug\net6.0\Multiple_actions_with_an_array.dll
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\bin\Debug\net6.0\Multiple_actions_with_an_array.pdb
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\obj\Debug\net6.0\Multiple_actions_with_an_array.dll
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\obj\Debug\net6.0\refint\Multiple_actions_with_an_array.dll
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\obj\Debug\net6.0\Multiple_actions_with_an_array.pdb
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\obj\Debug\net6.0\Multiple_actions_with_an_array.genruntimeconfig.cache
+C:\Users\splen\Documents\dotnetPractical\Array\Multiple_actions_with_an_array\Multiple_actions_with_an_array\obj\Debug\net6.0\ref\Multiple_actions_with_an_array.dll
