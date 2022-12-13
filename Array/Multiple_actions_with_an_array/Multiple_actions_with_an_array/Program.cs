@@ -14,12 +14,13 @@ class AllArrayActions
         int[] array = UserInput.ArrayInput();
         ActionsWithArray.NegativeNumbers(array);
         ActionsWithArray.UnevenElements(array);
-        ActionsWithArray.AverageValue(array);
+        double average = ActionsWithArray.CalculateAverageValue(array);
+        //ActionsWithArray.AverageValue(double average);
+        ActionsWithArray.EachSecondElement(array);
+        ActionsWithArray.AverageValue(average);
+        ActionsWithArray.SmalerThenAverage(array, average);
+       
     }
-
-
-
-
 
 
 }
@@ -55,23 +56,21 @@ class UserInput
 
 
 
-
 class ActionsWithArray
 {
+
+
     public static void NegativeNumbers( int [] arr)
     {   
         foreach(int streElement in arr)
         if (streElement < 0)
 
         {
-             Console.WriteLine("Negative numbers are: " + streElement) ;
-
+             Console.WriteLine("Negative numbers are: " + streElement); 
 
         }
-
-       
     }
-
+    
 
 
     //print out uneven elements
@@ -79,73 +78,86 @@ class ActionsWithArray
     public static void UnevenElements(int[] arr)
     {
         foreach (int strElement in arr)
-            if (strElement % 2 == 1 || strElement % 2 == -1)///also need to include neg numbers
+            if (strElement % 2 == 1 || strElement % 2 == -1)
             {
-                Console.WriteLine("Numbers which are uneven: " + strElement);
+                Console.Write("Numbers which are uneven: " + strElement);
+
+                
             }
 
-       
-    }
-
-
-    //   Compute how many elements are odd (uneven).
-
-    public static void HowManyUnevenElements(int[] arr)
-    {
-        foreach (int strElement in arr)
-
-        if (strElement % 2 == 1)///also need to include neg numbers
-        {
-            
-        }
-
-
-
-
-    }
-
-
-
-//  Verify if there are multiple elements with the same value
-    public static void SameValue(int[] arr) {
-        foreach (int strElement in arr) { } 
-
-        
-
+        Console.Write("\n");
     }
 
 
 
 
  //   Print out each second element.
-    public static void EachSecondElement(int[] arr) { 
-    
-    
-    
+    public static void EachSecondElement(int[] arr) {
+        
+            Console.Write("Each second element :");
+            for (int i = 0; i < arr.Length; i += 2)
+            {
+                Console.Write(" " + arr[i]);
+            }
+
+        Console.Write("\n");
     }
 
 
- //  Compute average value of the array.
-    public static void AverageValue(int[] arr) {
-
-        int valueOfArray = 
-
-        Console.WriteLine("Average value is : " + arr);
+    //  Compute average value of the array.
     
-    
-    }
 
-
-//   Establish how many elements are smaller than average value
-    public static void SmalerThenAverage(int[] arr)
+    public static double CalculateAverageValue(int[] arr)
     {
+        double average = 0;
+        foreach (int strElement in arr)
+            average += strElement;
 
+        average /= arr.Length;
+        return average;
+    }
+public static void AverageValue(double average)
+    {
+        Console.Write("Average value : " + average + "\n");
+       
+    }
 
+    //   Establish how many elements are smaller than average value
+    public static void SmalerThenAverage(int[] arr,  double average)
+    {
+        foreach (int strElement in arr)
+ if (strElement < average)
+ Console.Write("Smaler then average: " + strElement);
+           
+               
+        
     }
     
    
    
     
+ //   Compute how many elements are odd (uneven).
+public static void HowManyUnevenElements(int[] arr)
+    {
+        foreach (int strElement in arr)
+
+            if (strElement % 2 == 1)///also need to include neg numbers
+        {
+            Console.Write("There is " + strElement + "uneven elements");
+        }
+        Console.Write("\n");
+    }
+
+
+
+//  Verify if there are multiple elements with the same value
+    public static void SameValue(int[] arr) {
+        foreach (int strElement in arr) 
+        { } 
+
+        
+
+    }
 
 
 }

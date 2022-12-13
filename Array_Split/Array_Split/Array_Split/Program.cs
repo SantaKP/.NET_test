@@ -11,42 +11,34 @@ class Array_Split
     
     {
 
-        Console.WriteLine("Enter your phone number");
-        string phonenumb = Console.ReadLine();
-        bool match = Regex.Match(phonenumb, @"^[+][3-3][7-7][1-1][-\s]\d{4}[-\s]\d{4}$").Success;
+       Console.WriteLine("Please enter 5 integer numbers:");
+        string elements = (Console.ReadLine());
+        //string[] str = new string[element];
+        string[] element = elements.Split(";");
+
+        Console.WriteLine(element);
         
-        if (match) { Console.WriteLine("Thank you!");
-        }
-        else { Console.WriteLine("Phone number not valid. Please try again!");
-        }
-
-        //string nbr = "20, 30, 40, 44";
-        //string[] arraysplit = nbr.split(',');
-        //foreach (string nbr2 in arraysplit)
-        //    console.writeline(nbr2);
-        //int[] arr = new int[arraysplit.length];
 
 
+        //string[] elements = new string[](Console.ReadLine());
+        //string elsplit = elements.Split('');
 
+
+        //foreach (string arr in string arraySplit)
+        //{
+
+        //    Console.WriteLine(arr);
+        //}
 
 
 
 
-        //Console.ReadLine();
-        //string numberSplit = Console.ReadLine();
-        //string[] numbers = numberSplit.Split(";");
-        //foreach (string number in numbers)
-        //Console.WriteLine(number);
-
-
-
-
-
+        
+        // int nbrLine = int.Parse (Console.ReadLine());
+        //int[] elements = new int[nbrLine]; 
+        // int elementsSplit = nbrLine.Split(' ');
+    
     }
-
-
-
-
 
 
     }
